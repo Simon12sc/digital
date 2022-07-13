@@ -238,7 +238,7 @@
   padding:10px;
 }
 .courseBottom p{
-  font-size: 16px;
+  font-size: 12px;
 }
 .courseBottom button{
   background: #000B86;
@@ -300,9 +300,7 @@ color:white;
   a{
     font-size: 10px;
   }
-  p{
-    font-size: 5px;
-  }
+  
   h1{
     font-size: 20px;
     
